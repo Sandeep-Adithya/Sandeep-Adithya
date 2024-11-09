@@ -3,7 +3,7 @@
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
-<a href="https://twitter.com/ksandeepadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksandeepadithya" height="30" width="40" /></a>
+<a href="https://twitter.com/ksandeepadithya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&perline=16" alt="ksandeepadithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-adithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-adithya" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr.technophile_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.technophile_" height="30" width="40" /></a>
 </p>
