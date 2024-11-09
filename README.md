@@ -10,9 +10,9 @@
 
 <p align="left"><img src="https://skillicons.dev/icons?i=python,c,java&perline=16" alt="Tech Stack" /> </p>
 <p align="left"><img src="https://skillicons.dev/icons?i=flask,django,qt,redis,mysql,sqlite,html,css,bootstrap,js,vuejs,nodejs,aws,azure&perline=16" alt="Tech Stack" /> </p>
-<p align="left"><img src="https://skillicons.dev/icons?i=figma,git,postman,matlab,arduino&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=figma,git,postman,matlab,arduino,replit&perline=16" alt="Tech Stack" /> </p>
 <p align="left"><img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,opencv&perline=16" alt="Tech Stack" /> </p>
-<p align="left"><img src="https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premierepro&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=16" alt="Tech Stack" /> </p>
 <p align="left"><img src="https://skillicons.dev/icons?i=unreal,unity,blender&perline=16" alt="Tech Stack" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
