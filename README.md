@@ -2,7 +2,7 @@
 <h3 align="center">Software enthusiast with strong technical skills in developing, deploying, and improving software solutions.</h3>
 
 <p align="center">
-<p align="center">Connect with me:</p>
+Connect with me:
 <a href="https://twitter.com/ksandeepadithya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ksandeepadithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-adithya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sandeep-adithya" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr.technophile_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="_mr.technophile_" height="30" width="40" /></a>
