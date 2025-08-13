@@ -46,15 +46,11 @@
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 ### **Embedded Systems & Hardware**
-<img src="https://skillicons.dev/icons?i=arduino" width="48" title="Arduino" />
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" title="Raspberry Pi" />
-<img
-  src="https://media.theresanaiforthat.com/icons/esp32-iot-gpt.png"
-  width="48"
-  style="border-radius: 10px;"
-  title="ESP32"
-/>
-<img src="https://skillicons.dev/icons?i=c" width="48" title="Embedded C" />
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+<img src="https://media.theresanaiforthat.com/icons/esp32-iot-gpt.png" width="48" title="ESP32" />
+![Embedded C](https://skillicons.dev/icons?i=c)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ### **Creative Tools**
 ![Photoshop](https://skillicons.dev/icons?i=ps)
