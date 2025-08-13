@@ -62,8 +62,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **Cognitive Performance & Mental Fitness Monitoring for Astronauts** | 
-Multimodal AI system combining facial emotion recognition (CNN, 89%), speech emotion recognition (MLP, 89.08%), and posture analysis (MediaPipe, 69%) for real-time astronaut training assessment. Presented at **IAC 2023**. | Python, PyQt, TensorFlow, Scikit-learn, MediaPipe, Raspberry Pi | [Paper PDF](./IAC-23,A1,IP,21,x76217.pdf) |
+| **Cognitive Performance & Mental Fitness Monitoring for Astronauts** | Multimodal AI system combining facial emotion recognition (CNN, 89%), speech emotion recognition (MLP, 89.08%), and posture analysis (MediaPipe, 69%) for real-time astronaut training assessment. Presented at **IAC 2023**. | Python, PyQt, TensorFlow, Scikit-learn, MediaPipe, Raspberry Pi | [Paper PDF](./IAC-23,A1,IP,21,x76217.pdf) |
 | **TixApp** | Movie ticket booking platform with seat selection and payment flow | Flask, HTML, CSS, Bootstrap, SQLite | [Live Demo](https://tixapp.onrender.com/) [Repo](https://github.com/Sandeep-Adithya/TixApp) |
 | **Fresh Greens** | Grocery shopping app with frontend-backend integration | Frontend: Vue.js · Backend: Flask, Celery, Redis | [Frontend](https://github.com/Sandeep-Adithya/Fresh-Greens-Frontend) [Backend](https://github.com/Sandeep-Adithya/Fresh-Greens-Backend) |
 | **DataHIVE** | School management desktop software | Python Tkinter, MySQL | [Repo](https://github.com/Sandeep-Adithya/DataHIVE) |
