@@ -85,9 +85,10 @@ Here are some of my notable works:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeep-adithya?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </p>
+
 ---
 
 ## 📬 Let’s Connect!
-📧 Email: **your.email@example.com**  
+📧 Email: **sandeepadithya.k@gmail.com**  
 🌐 Portfolio: [Sandeep Adithya](https://sandeep-adithya.github.io/)  
 💼 LinkedIn: [linkedin.com/in/sandeep-adithya](https://linkedin.com/in/sandeep-adithya)
