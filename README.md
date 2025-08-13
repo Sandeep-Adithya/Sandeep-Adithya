@@ -59,12 +59,18 @@
 ---
 
 ## 🚀 Featured Projects
-Here are some of my notable works:
 
-- **[ReCourse Learning](https://github.com/yourusername/recourse)** — A gamified sci-fi themed e-learning platform.
-- **AI Traffic Management System** — Real-time traffic optimization using IoT + Edge AI.
-- **DMX RGB Light Controller** — Dual Arduino system with OLED UI & scene control.
-- *(More projects on [GitHub](https://github.com/yourusername?tab=repositories))*
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Cognitive Performance & Mental Fitness Monitoring for Astronauts** | 
+Multimodal AI system combining facial emotion recognition (CNN, 89%), speech emotion recognition (MLP, 89.08%), and posture analysis (MediaPipe, 69%) for real-time astronaut training assessment. Presented at **IAC 2023**. | Python, PyQt, TensorFlow, Scikit-learn, MediaPipe, Raspberry Pi | [Paper PDF](./IAC-23,A1,IP,21,x76217.pdf) |
+| **TixApp** | Movie ticket booking platform with seat selection and payment flow | Flask, HTML, CSS, Bootstrap, SQLite | [Live Demo](https://tixapp.onrender.com/) [Repo](https://github.com/Sandeep-Adithya/TixApp) |
+| **Fresh Greens** | Grocery shopping app with frontend-backend integration | Frontend: Vue.js · Backend: Flask, Celery, Redis | [Frontend](https://github.com/Sandeep-Adithya/Fresh-Greens-Frontend) [Backend](https://github.com/Sandeep-Adithya/Fresh-Greens-Backend) |
+| **DataHIVE** | School management desktop software | Python Tkinter, MySQL | [Repo](https://github.com/Sandeep-Adithya/DataHIVE) |
+| **Recipe for Rating** | Predict food ratings using ML | Scikit-Learn | [Kaggle](https://www.kaggle.com/code/ksandeepadithya/22f1001068-notebook-t32023) |
+| **Hospital Management (IoT)** | Hospital system with IoT-enabled monitoring | Django, HTML, CSS, Raspberry Pi, Apache | — |
+| **Smart Bike Module (IoT)** | Real-time IoT-based smart bike system | ESP32, Flask-RESTful | — |
+| **Teddy Talks** | AI-powered companion bot | Google Gemini 2.0 Flash Live, Raspberry Pi | — |
 
 ---
 
