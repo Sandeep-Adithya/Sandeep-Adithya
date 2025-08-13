@@ -45,6 +45,13 @@
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
+### **Embedded Systems & Hardware**
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-555555?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
+
 ### **Creative Tools**
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Illustrator](https://skillicons.dev/icons?i=ai)
