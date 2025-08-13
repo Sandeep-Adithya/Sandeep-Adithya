@@ -24,3 +24,7 @@ Connect with me on
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-adithya&show_icons=true&locale=en&layout=compact" alt="sandeep-adithya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-adithya&show_icons=true&locale=en" alt="sandeep-adithya" /></p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sandeep-adithya?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+</p>
