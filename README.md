@@ -48,7 +48,12 @@
 ### **Embedded Systems & Hardware**
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+<img
+  src="https://media.theresanaiforthat.com/icons/esp32-iot-gpt.png"
+  width="48"
+  style="border-radius: 8px;"
+  title="ESP32"
+/>
 <img src="https://img.icons8.com/fluency/48/internet-of-things.png" title="IoT" /> 
 <img src="https://img.icons8.com/fluency/48/sensor.png" title="Sensors" /> 
 <img src="https://img.icons8.com/fluency/48/plc.png" title="PLC" /> 
