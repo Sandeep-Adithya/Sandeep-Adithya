@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Adithya Krishnamurthy</h1>
-<h3 align="center">Software enthusiast with strong technical skills in developing, deploying, and improving software solutions.</h3>
+<h3 align="center">💻 Software Developer | 🚀 Full Stack Engineer | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
-Connect with me on
 <a href="https://twitter.com/ksandeepadithya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ksandeepadithya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeep-adithya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sandeep-adithya" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr.technophile_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="_mr.technophile_" height="30" width="40" /></a>
@@ -20,6 +19,16 @@ Connect with me on
 <p align="left"><img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=16" alt="Tech Stack" /> </p>
 <h3 align="left">Game Development</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=unreal,unity,blender&perline=16" alt="Tech Stack" /> </p>
+
+## 🚀 Featured Projects
+Here are some of my notable works:
+
+- **[ReCourse Learning](https://github.com/yourusername/recourse)** — A gamified sci-fi themed e-learning platform.
+- **AI Traffic Management System** — Real-time traffic optimization using IoT + Edge AI.
+- **DMX RGB Light Controller** — Dual Arduino system with OLED UI & scene control.
+- *(More projects on [GitHub](https://github.com/yourusername?tab=repositories))*
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-adithya&show_icons=true&locale=en&layout=compact" alt="sandeep-adithya" /></p>
 
