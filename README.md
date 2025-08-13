@@ -49,8 +49,12 @@
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-555555?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
+<img src="https://img.icons8.com/fluency/48/internet-of-things.png" title="IoT" /> 
+<img src="https://img.icons8.com/fluency/48/sensor.png" title="Sensors" /> 
+<img src="https://img.icons8.com/fluency/48/plc.png" title="PLC" /> 
+<img src="https://img.icons8.com/fluency/48/automation.png" title="SCADA" /> 
+<img src="https://img.icons8.com/fluency/48/ladder-diagram.png" title="Logic Programming" /> 
+<img src="https://skillicons.dev/icons?i=c" width="48" title="Embedded C" />
 
 ### **Creative Tools**
 ![Photoshop](https://skillicons.dev/icons?i=ps)
