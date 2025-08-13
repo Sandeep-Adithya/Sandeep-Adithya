@@ -15,6 +15,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### **Full Stack & Frameworks**
 ![Flask](https://skillicons.dev/icons?i=flask)
@@ -42,23 +43,17 @@
 
 ### **AI / Machine Learning**
 ![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 ### **Embedded Systems & Hardware**
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+<img src="https://skillicons.dev/icons?i=arduino" width="48" title="Arduino" />
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" title="Raspberry Pi" />
 <img
   src="https://media.theresanaiforthat.com/icons/esp32-iot-gpt.png"
   width="48"
-  style="border-radius: 8px;"
+  style="border-radius: 10px;"
   title="ESP32"
 />
-<img src="https://img.icons8.com/fluency/48/internet-of-things.png" title="IoT" /> 
-<img src="https://img.icons8.com/fluency/48/sensor.png" title="Sensors" /> 
-<img src="https://img.icons8.com/fluency/48/plc.png" title="PLC" /> 
-<img src="https://img.icons8.com/fluency/48/automation.png" title="SCADA" /> 
-<img src="https://img.icons8.com/fluency/48/ladder-diagram.png" title="Logic Programming" /> 
 <img src="https://skillicons.dev/icons?i=c" width="48" title="Embedded C" />
 
 ### **Creative Tools**
