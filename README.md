@@ -79,7 +79,7 @@
 | **Teddy Talks** | AI-powered companion bot | Google Gemini 2.0 Flash Live, Raspberry Pi | — |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,12 +92,10 @@
 </p>
 
 ---
-<!--
 ### 🏆 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeep-adithya?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </p>
-{:/comment}
 -->
 
 ## 📬 Let’s Connect!
