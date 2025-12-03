@@ -92,12 +92,12 @@
 </p>
 
 ---
-
+{::comment}
 ### 🏆 LeetCode Progress
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sandeep-adithya?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </p>
-
+{:/comment}
 ---
 
 ## 📬 Let’s Connect!
