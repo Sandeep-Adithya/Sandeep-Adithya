@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandeep Adithya Krishnamurthy</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Adithya K</h1>
 <h3 align="center">💻 Software Developer | 🚀 Full Stack Engineer | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
